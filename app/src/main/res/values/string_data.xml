@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="data_name">
+        <item>Raja Ampat</item>
+        <item>Pantai Kuta</item>
+        <item>Nusa Penida</item>
+        <item>Gunung Bromo</item>
+        <item>Danau Toba</item>
+        <item>Candi Borobudur</item>
+        <item>Labuan Bajo</item>
+        <item>Pulau Komodo</item>
+        <item>Kawah Ijen</item>
+        <item>Tana Toraja</item>
+        <item>Pantai Pink</item>
+        <item>Wakatobi</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Raja Ampat adalah permata Papua Barat yang terdiri dari ribuan pulau kecil. Dikenal sebagai ibu kota maritim dunia, tempat ini memiliki kekayaan bawah laut yang tak tertandingi dengan ratusan jenis terumbu karang dan ribuan spesies ikan. Pemandangan dari bukit Piaynemo memberikan panorama gugusan pulau karst di tengah laut biru jernih yang sangat ikonik.</item>
+        <item>Pantai Kuta merupakan jantung pariwisata Bali yang terkenal dengan garis pantai berpasir putih yang luas dan ombak yang sangat ramah bagi peselancar pemula. Menjelang petang, pantai ini menyajikan pemandangan matahari terbenam (sunset) yang paling spektakuler di dunia, dikelilingi oleh fasilitas hiburan yang lengkap bagi para turis.</item>
+        <item>Nusa Penida adalah pulau eksotis di tenggara Bali yang menawarkan tebing-tebing curam yang dramatis. Destinasi paling terkenalnya, Kelingking Beach, memiliki tebing yang berbentuk menyerupai leher dinosaurus T-Rex. Air lautnya yang biru kristal dan kehidupan bawah laut yang masih asri menjadikannya tempat favorit untuk diving dan snorkeling.</item>
+        <item>Gunung Bromo menawarkan pemandangan magis kaldera raksasa yang diselimuti kabut dan lautan pasir yang luas. Menikmati matahari terbit dari Puncak Penanjakan adalah momen yang paling dicari oleh wisatawan dunia. Suara gemuruh dari kawah aktifnya memberikan sensasi petualangan yang tidak terlupakan di Jawa Timur.</item>
+        <item>Danau Toba di Sumatera Utara adalah danau vulkanik purba terbesar di dunia. Di tengah danau ini terdapat Pulau Samosir yang menyimpan kekayaan budaya suku Batak Toba. Pemandangan bukit-bukit hijau yang mengelilingi perairan biru yang tenang menciptakan suasana tenang dan mistis yang sangat memikat.</item>
+        <item>Candi Borobudur adalah candi Budha terbesar di dunia dan salah satu warisan budaya UNESCO. Dibangun pada abad ke-9, candi ini memiliki ribuan relief yang menceritakan perjalanan spiritual dan ratusan stupa yang megah. Berada di sini saat pagi hari memberikan pemandangan kabut di antara stupa yang sangat syahdu.</item>
+        <item>Labuan Bajo adalah gerbang utama menuju petualangan di Taman Nasional Komodo. Dulunya hanya desa nelayan kecil, kini Labuan Bajo bertransformasi menjadi kota pelabuhan modern yang cantik. Wisatawan biasanya memulai perjalanan kapal (Live on Board) dari sini untuk mengeksplorasi pulau-pulau eksotis di sekitarnya.</item>
+        <item>Pulau Komodo adalah satu-satunya tempat di dunia di mana Anda bisa melihat naga purba terakhir yang masih hidup di habitat aslinya. Selain melihat Komodo, pulau ini menawarkan jalur trekking yang menantang dengan pemandangan perbukitan gersang yang kontras dengan biru laut yang sangat menakjubkan.</item>
+        <item>Kawah Ijen terkenal dengan fenomena api biru (Blue Fire) yang sangat langka di dunia. Pengunjung harus mendaki pada tengah malam untuk melihat api biru di dasar kawah yang dihasilkan oleh gas belerang. Pagi harinya, Anda akan disuguhi pemandangan danau kawah berwarna hijau toska yang luar biasa indah.</item>
+        <item>Tana Toraja di Sulawesi Selatan menawarkan wisata budaya yang sangat unik dan mendalam. Terkenal dengan rumah adat Tongkonan dengan atap berbentuk perahu dan tradisi pemakaman kuno di tebing batu. Keindahan alam pegunungan dan kopi khas Toraja menjadi pelengkap sempurna saat berkunjung ke sini.</item>
+        <item>Pantai Pink (Pink Beach) adalah fenomena alam langka di mana butiran terumbu karang merah yang hancur bercampur dengan pasir putih sehingga menciptakan gradasi warna pink yang cantik. Terletak di kawasan Pulau Komodo, pantai ini adalah tempat terbaik untuk bersantai dan snorkeling di air yang sangat tenang.</item>
+        <item>Wakatobi merupakan taman nasional laut di Sulawesi Tenggara yang menjadi jantung Segitiga Terumbu Karang dunia. Dengan kejernihan air yang luar biasa, penyelam dapat melihat kehidupan bawah laut secara jelas. Wakatobi adalah definisi surga bagi para pecinta olahraga menyelam dan snorkeling.</item>
+    </string-array>
+
+    <string-array name="data_location">
+        <item>Papua Barat</item><item>Bali</item><item>Bali</item><item>Jawa Timur</item>
+        <item>Sumatera Utara</item><item>Jawa Tengah</item><item>NTT</item><item>NTT</item>
+        <item>Banyuwangi</item><item>Sulawesi Selatan</item><item>Lombok</item><item>Sulawesi Tenggara</item>
+    </string-array>
+
+    <string-array name="data_rating">
+        <item>4.9</item><item>4.5</item><item>4.7</item><item>4.8</item>
+        <item>4.6</item><item>4.9</item><item>4.8</item><item>4.9</item>
+        <item>4.7</item><item>4.6</item><item>4.8</item><item>4.9</item>
+    </string-array>
+
+    <string-array name="data_price">
+        <item>Rp 500.000</item><item>Gratis</item><item>Rp 25.000</item><item>Rp 29.000</item>
+        <item>Rp 10.000</item><item>Rp 50.000</item><item>Gratis</item><item>Rp 150.000</item>
+        <item>Rp 15.000</item><item>Rp 20.000</item><item>Rp 10.000</item><item>Rp 160.000</item>
+    </string-array>
+
+    <string-array name="data_hours">
+        <item>24 Jam</item><item>24 Jam</item><item>06:00 - 18:00</item><item>24 Jam</item>
+        <item>24 Jam</item><item>07:00 - 17:00</item><item>24 Jam</item><item>07:00 - 16:00</item>
+        <item>01:00 - 12:00</item><item>08:00 - 18:00</item><item>24 Jam</item><item>24 Jam</item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/raja_ampat</item>
+        <item>@drawable/kuta</item>
+        <item>@drawable/nusa_penida</item>
+        <item>@drawable/bromo</item>
+        <item>@drawable/danau_toba</item>
+        <item>@drawable/borobudur</item>
+        <item>@drawable/labuan_bajo</item>
+        <item>@drawable/komodo</item>
+        <item>@drawable/ijen</item>
+        <item>@drawable/toraja</item>
+        <item>@drawable/pink_beach</item>
+        <item>@drawable/wakatobi</item>
+    </array>
+</resources>

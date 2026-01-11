@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.WisataNusantara" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#1E88E5</item>
+        <item name="colorPrimaryVariant">#1E88E5</item> <item name="colorOnPrimary">@color/white</item>
+
+        <item name="android:statusBarColor">#1E88E5</item>
+        <item name="android:windowLightStatusBar">false</item> <item name="colorSecondary">#03DAC6</item>
+        <item name="colorOnSecondary">@color/black</item>
+    </style>
+</resources>
